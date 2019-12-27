@@ -1,5 +1,7 @@
 #!/bin/bash
 
+
+# garbage
 # Exit on error
 set -e
 
